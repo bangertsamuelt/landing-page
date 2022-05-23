@@ -27,7 +27,7 @@ header {
 }
 
 
-.logo p{
+.logo p {
     display: flex;
     font-size: 24px;
     color: #f9faf8;
@@ -40,7 +40,7 @@ a {
     color: #e5e7eb;
 }
 
-.links ul{
+.links ul {
     display: flex;
     list-style: none;
     align-items: center;
@@ -83,7 +83,7 @@ button {
 .explain {
     width: 450px;
 }
-.explain h2, .explain p{
+.explain h2, .explain p {
     margin: 0;
     padding: 0;
 }
@@ -134,7 +134,7 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 175px
+    width: 175px;
 }
 
 .third-section {
@@ -197,7 +197,7 @@ button {
     font-size: 18px;
 }
 
-.cta p, .cta h3{
+.cta p, .cta h3 {
     margin: 0;
 }
 
