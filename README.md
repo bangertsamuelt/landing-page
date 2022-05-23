@@ -1,6 +1,6 @@
 # landing-page
 <h2>What is this project about?</h2>
-<p>This project is a depiction of the HTML, CSS, and Flexbox skills I am learning through The Odin Project's cirriculum.</p>
+<p>This project is a depiction of the HTML, CSS, and Flexbox skills I am learning through The Odin Project's cirriculum. This project should be viewed from a computer or tablet, it is not optimized for mobile.</p>
 <p>In this project I showcased:</p>
 <ul>
   <li>Building and adding content to an HTML page.</li>
